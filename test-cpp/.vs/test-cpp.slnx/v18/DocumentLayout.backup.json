@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6768D6B-B736-4037-9F0A-A0D96B7516B1}|test2\\test2.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\test2\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6768D6B-B736-4037-9F0A-A0D96B7516B1}|test2\\test2.vcxproj|solutionrelative:test2\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F164A0B-5DF6-4F96-B567-86D3F97987D0}|test\\test.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\test\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F164A0B-5DF6-4F96-B567-86D3F97987D0}|test\\test.vcxproj|solutionrelative:test\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test2.c",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\test2\\test2.c",
+              "RelativeDocumentMoniker": "test2\\test2.c",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\test2\\test2.c",
+              "RelativeToolTip": "test2\\test2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-26T07:51:19.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\test\\test.c",
+              "RelativeDocumentMoniker": "test\\test.c",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\test-cpp\\test\\test.c",
+              "RelativeToolTip": "test\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-26T06:55:22.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
