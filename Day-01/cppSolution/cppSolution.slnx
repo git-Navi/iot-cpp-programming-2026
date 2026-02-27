@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="base-prac10/base-prac10.vcxproj" />
+  <Project Path="base-prac2/base-prac2.vcxproj" />
+  <Project Path="base-prac3/base-prac3.vcxproj" />
+  <Project Path="base-prac4/base-prac4.vcxproj" />
+  <Project Path="base-prac5/base-prac5.vcxproj" />
+  <Project Path="base-prac6/base-prac6.vcxproj" />
+  <Project Path="base-prac7/base-prac7.vcxproj" />
+  <Project Path="base-prac8/base-prac8.vcxproj" />
+  <Project Path="base-prac9/base-prac9.vcxproj" />
+  <Project Path="base/base.vcxproj" />
+</Solution>

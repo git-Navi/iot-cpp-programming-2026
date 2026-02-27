@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9AEF9-6629-424A-9094-8644E227F8CF}|base-prac10\\base-prac10.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac10\\base-prac10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19F9AEF9-6629-424A-9094-8644E227F8CF}|base-prac10\\base-prac10.vcxproj|solutionrelative:base-prac10\\base-prac10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAC9493-7732-41FE-8DA5-6AD9E6FDA462}|base-prac9\\base-prac9.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac9\\base-prac9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EAC9493-7732-41FE-8DA5-6AD9E6FDA462}|base-prac9\\base-prac9.vcxproj|solutionrelative:base-prac9\\base-prac9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC344FD-B56E-41EE-BCC7-7CB26DD4A44D}|base-prac8\\base-prac8.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac8\\base-prac8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDC344FD-B56E-41EE-BCC7-7CB26DD4A44D}|base-prac8\\base-prac8.vcxproj|solutionrelative:base-prac8\\base-prac8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E99045D-8133-4E06-AC4D-2FD019EDB1B1}|base-prac7\\base-prac7.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac7\\base-prac7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E99045D-8133-4E06-AC4D-2FD019EDB1B1}|base-prac7\\base-prac7.vcxproj|solutionrelative:base-prac7\\base-prac7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E8F3E7-949E-40DF-B5AC-F2320AB72035}|base-prac5\\base-prac5.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac5\\base-prac5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92E8F3E7-949E-40DF-B5AC-F2320AB72035}|base-prac5\\base-prac5.vcxproj|solutionrelative:base-prac5\\base-prac5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CAC160-F9CF-42F7-B141-4DED40EC2D14}|base-prac6\\base-prac6.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac6\\base-prac6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04CAC160-F9CF-42F7-B141-4DED40EC2D14}|base-prac6\\base-prac6.vcxproj|solutionrelative:base-prac6\\base-prac6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38C16EB-136E-4B27-B832-99DD0A5557F1}|base-prac4\\base-prac4.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac4\\base-prac4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38C16EB-136E-4B27-B832-99DD0A5557F1}|base-prac4\\base-prac4.vcxproj|solutionrelative:base-prac4\\base-prac4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "base-prac10.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac10\\base-prac10.cpp",
+              "RelativeDocumentMoniker": "base-prac10\\base-prac10.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac10\\base-prac10.cpp",
+              "RelativeToolTip": "base-prac10\\base-prac10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T03:20:26.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "base-prac9.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac9\\base-prac9.cpp",
+              "RelativeDocumentMoniker": "base-prac9\\base-prac9.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac9\\base-prac9.cpp",
+              "RelativeToolTip": "base-prac9\\base-prac9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T03:11:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base-prac8.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac8\\base-prac8.cpp",
+              "RelativeDocumentMoniker": "base-prac8\\base-prac8.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac8\\base-prac8.cpp",
+              "RelativeToolTip": "base-prac8\\base-prac8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T02:37:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base-prac7.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac7\\base-prac7.cpp",
+              "RelativeDocumentMoniker": "base-prac7\\base-prac7.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac7\\base-prac7.cpp",
+              "RelativeToolTip": "base-prac7\\base-prac7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T02:28:37.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "base-prac6.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac6\\base-prac6.cpp",
+              "RelativeDocumentMoniker": "base-prac6\\base-prac6.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac6\\base-prac6.cpp",
+              "RelativeToolTip": "base-prac6\\base-prac6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T02:22:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "base-prac5.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac5\\base-prac5.cpp",
+              "RelativeDocumentMoniker": "base-prac5\\base-prac5.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac5\\base-prac5.cpp",
+              "RelativeToolTip": "base-prac5\\base-prac5.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T01:45:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "base-prac4.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac4\\base-prac4.cpp",
+              "RelativeDocumentMoniker": "base-prac4\\base-prac4.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\Day-01\\cppSolution\\base-prac4\\base-prac4.cpp",
+              "RelativeToolTip": "base-prac4\\base-prac4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T01:36:23.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

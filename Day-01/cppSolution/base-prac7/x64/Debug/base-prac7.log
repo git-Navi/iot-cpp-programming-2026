@@ -1,0 +1,2 @@
+﻿  base-prac7.cpp
+C:\SourceBank\iot-cpp-programming-2026\Day-01\cppSolution\base-prac7\base-prac7.cpp(8,55): error C2548: 'WrongFunc': 매개 변수 3의 기본 인수가 없습니다.
