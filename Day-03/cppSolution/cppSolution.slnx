@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cppSolution/cppSolution.vcxproj" />
+  <Project Path="prac1/prac1.vcxproj" />
+  <Project Path="prac10/prac10.vcxproj" />
+  <Project Path="prac2/prac2.vcxproj" />
+  <Project Path="prac3/prac3.vcxproj" />
+  <Project Path="prac4/prac4.vcxproj" />
+  <Project Path="prac5/prac5.vcxproj" />
+  <Project Path="prac6/prac6.vcxproj" />
+  <Project Path="prac88/prac88.vcxproj" />
+  <Project Path="prac9/prac9.vcxproj" />
+</Solution>
