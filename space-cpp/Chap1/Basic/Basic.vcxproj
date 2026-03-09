@@ -133,6 +133,14 @@
     <ClCompile Include="04_break_continue.cpp" />
     <ClCompile Include="05_function_library.cpp" />
     <ClCompile Include="06_function_args1.cpp" />
+    <ClCompile Include="12_class.cpp" />
+    <ClCompile Include="13_class.cpp" />
+    <ClCompile Include="14_class_use.cpp" />
+    <ClCompile Include="15_class.cpp" />
+    <ClCompile Include="16_class.cpp" />
+    <ClCompile Include="17_game.cpp" />
+    <ClCompile Include="file1.cpp" />
+    <ClCompile Include="file2.cpp" />
     <ClCompile Include="test_for.cpp" />
     <ClCompile Include="test_if.cpp" />
     <ClCompile Include="test_while.cpp" />
