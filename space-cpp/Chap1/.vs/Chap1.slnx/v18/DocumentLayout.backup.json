@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\17_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\17_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\appTokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\appTokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\16_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\16_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\tokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\tokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\15_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\15_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\14_class_use.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\14_class_use.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\file2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\file2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\test_while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\test_while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\file1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\file1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\13_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\13_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\12_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\12_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70B2E299-E291-47FD-B9B4-3E6E5FFD9C77}|Basic\\Basic.vcxproj|solutionrelative:Basic\\tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "17_game.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\17_game.cpp",
-              "RelativeDocumentMoniker": "Basic\\17_game.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\17_game.cpp",
-              "RelativeToolTip": "Basic\\17_game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Title": "appTokenizer.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\appTokenizer.cpp",
+              "RelativeDocumentMoniker": "Basic\\appTokenizer.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\appTokenizer.cpp",
+              "RelativeToolTip": "Basic\\appTokenizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T07:24:07.344Z",
+              "WhenOpened": "2026-03-10T07:06:52.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "16_class.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\16_class.cpp",
-              "RelativeDocumentMoniker": "Basic\\16_class.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\16_class.cpp",
-              "RelativeToolTip": "Basic\\16_class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Title": "tokenizer.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\tokenizer.cpp",
+              "RelativeDocumentMoniker": "Basic\\tokenizer.cpp",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\tokenizer.cpp",
+              "RelativeToolTip": "Basic\\tokenizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T06:30:04.728Z",
+              "WhenOpened": "2026-03-10T07:06:23.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "15_class.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\15_class.cpp",
-              "RelativeDocumentMoniker": "Basic\\15_class.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\15_class.cpp",
-              "RelativeToolTip": "Basic\\15_class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T06:11:11.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "14_class_use.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\14_class_use.cpp",
-              "RelativeDocumentMoniker": "Basic\\14_class_use.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\14_class_use.cpp",
-              "RelativeToolTip": "Basic\\14_class_use.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T05:28:06.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "file2.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\file2.cpp",
-              "RelativeDocumentMoniker": "Basic\\file2.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\file2.cpp",
-              "RelativeToolTip": "Basic\\file2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T05:24:42.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "file1.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\file1.cpp",
-              "RelativeDocumentMoniker": "Basic\\file1.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\file1.cpp",
-              "RelativeToolTip": "Basic\\file1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T05:23:31.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "13_class.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\13_class.cpp",
-              "RelativeDocumentMoniker": "Basic\\13_class.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\13_class.cpp",
-              "RelativeToolTip": "Basic\\13_class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T05:03:03.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "12_class.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\12_class.cpp",
-              "RelativeDocumentMoniker": "Basic\\12_class.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\12_class.cpp",
-              "RelativeToolTip": "Basic\\12_class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T02:48:48.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "test_while.cpp",
-              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\test_while.cpp",
-              "RelativeDocumentMoniker": "Basic\\test_while.cpp",
-              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\test_while.cpp",
-              "RelativeToolTip": "Basic\\test_while.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-06T07:11:37.397Z",
+              "Title": "tokenizer.h",
+              "DocumentMoniker": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\tokenizer.h",
+              "RelativeDocumentMoniker": "Basic\\tokenizer.h",
+              "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\tokenizer.h",
+              "RelativeToolTip": "Basic\\tokenizer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T07:06:09.349Z",
               "EditorCaption": ""
             }
           ]
