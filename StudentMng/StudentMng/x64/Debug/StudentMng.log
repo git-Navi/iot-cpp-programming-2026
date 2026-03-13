@@ -1,0 +1,11 @@
+﻿  app.cpp
+  course.cpp
+  courseRoster.cpp
+  registrar.cpp
+C:\SourceBank\iot-cpp-programming-2026\StudentMng\courseRoster.cpp(26,13): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\SourceBank\iot-cpp-programming-2026\StudentMng\courseRoster.cpp(27,5): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+  student.cpp
+  studentSchedule.cpp
+C:\SourceBank\iot-cpp-programming-2026\StudentMng\studentSchedule.cpp(26,13): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\SourceBank\iot-cpp-programming-2026\StudentMng\studentSchedule.cpp(27,5): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+  코드를 생성하고 있습니다...

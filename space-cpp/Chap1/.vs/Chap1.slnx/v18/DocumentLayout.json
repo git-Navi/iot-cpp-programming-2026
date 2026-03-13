@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Basic\\student2.h",
               "ToolTip": "C:\\SourceBank\\iot-cpp-programming-2026\\space-cpp\\Chap1\\Basic\\student2.h",
               "RelativeToolTip": "Basic\\student2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-10T08:14:52.537Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Basic\\course.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-10T08:04:35.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T08:04:35.147Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Basic\\course.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-10T08:02:04.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T08:02:04.605Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Basic\\courseRoster.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-10T07:56:59.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T07:56:59.981Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Basic\\courseRoster.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-10T07:50:18.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T07:50:18.754Z"
             }
           ]
         }
